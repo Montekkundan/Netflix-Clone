@@ -21,7 +21,7 @@ function Header() {
   return (
     <header className={`${isScrolled && 'bg-[#141414]'}`}>
         <div className="flex  items-center space-x-2 md:space-x-10">
-            <img src="http://assets.stickpng.com/images/580b57fcd9996e24bc43c529.png" width={100} height={100} className="cursor-pointer object-contain" />
+            <img src="https://kagi.com/proxy/netflix_PNG25.png?c=_k2SEP71vubeNJlITPQhEc4BuqL0RgcbYZmiQl3nRwD5TmdvO6o9KV7LLHrfO0v2J-OZ69Y0ea7sPBMhbIVZxA%3D%3D" width={100} height={100} className="cursor-pointer object-contain" />
             <ul className="hidden space-x-4 md:flex" >
                 <li className = "headerLink">Home</li>
                 <li className = "headerLink">TV Shows</li>
